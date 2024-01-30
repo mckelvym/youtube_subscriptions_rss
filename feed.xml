@@ -5,12 +5,336 @@
     <link>https://github.com/mckelvym/youtube_subscriptions_rss</link>
     <description>Subscriptions harvester and newly released videos</description>
     <item>
+      <title>Into the hive of eBPF! by Mohammed Aboullaite (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=hkCxVICC1XA</link>
+      <description>&lt;a href="https://open.spotify.com/search/Into%20the%20hive%20of%20eBPF!%20by%20Mohammed%20Aboullaite"&gt;Into the hive of eBPF! by Mohammed Aboullaite (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=hkCxVICC1XA"&gt;&lt;img src="https://i.ytimg.com/vi/hkCxVICC1XA/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=hkCxVICC1XA</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Exploring Spring Boot Clients: A Comprehensive Overview by Patrick Baumgartner (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=ikg2jGY8xlY</link>
+      <description>&lt;a href="https://open.spotify.com/search/Exploring%20Spring%20Boot%20Clients:%20A%20Comprehensive%20Overview%20by%20Patrick%20Baumgartner"&gt;Exploring Spring Boot Clients: A Comprehensive Overview by Patrick Baumgartner (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=ikg2jGY8xlY"&gt;&lt;img src="https://i.ytimg.com/vi/ikg2jGY8xlY/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=ikg2jGY8xlY</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Open roadmaps for your open communities. Not a success story, but you may have one by Oleg Nenashev (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=j22PS56h6Y8</link>
+      <description>&lt;a href="https://open.spotify.com/search/Open%20roadmaps%20for%20your%20open%20communities.%20Not%20a%20success%20story,%20but%20you%20may%20have%20one%20by%20Oleg%20Nenashev"&gt;Open roadmaps for your open communities. Not a success story, but you may have one by Oleg Nenashev (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=j22PS56h6Y8"&gt;&lt;img src="https://i.ytimg.com/vi/j22PS56h6Y8/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=j22PS56h6Y8</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Game of Loom 2: life and dead(lock) of a virtual thread by Mario Fusco (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=mcPRIPd3BP4</link>
+      <description>&lt;a href="https://open.spotify.com/search/Game%20of%20Loom%202:%20life%20and%20dead(lock)%20of%20a%20virtual%20thread%20by%20Mario%20Fusco"&gt;Game of Loom 2: life and dead(lock) of a virtual thread by Mario Fusco (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=mcPRIPd3BP4"&gt;&lt;img src="https://i.ytimg.com/vi/mcPRIPd3BP4/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=mcPRIPd3BP4</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>REST API Validation in a Typescript front-end by Matteo Orlandi and Lorenzo Pieri (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=nxYc1ehm2F4</link>
+      <description>&lt;a href="https://open.spotify.com/search/REST%20API%20Validation%20in%20a%20Typescript%20front-end%20by%20Matteo%20Orlandi%20and%20Lorenzo%20Pieri"&gt;REST API Validation in a Typescript front-end by Matteo Orlandi and Lorenzo Pieri (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=nxYc1ehm2F4"&gt;&lt;img src="https://i.ytimg.com/vi/nxYc1ehm2F4/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=nxYc1ehm2F4</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Practical Performance Analysis by Simone Bordet (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=pf73bn5_Fx4</link>
+      <description>&lt;a href="https://open.spotify.com/search/Practical%20Performance%20Analysis%20by%20Simone%20Bordet"&gt;Practical Performance Analysis by Simone Bordet (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=pf73bn5_Fx4"&gt;&lt;img src="https://i.ytimg.com/vi/pf73bn5_Fx4/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=pf73bn5_Fx4</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Welcome to Voxxed Days Ticino 2024 by Federico Yankelevich and Tiziano Leidi (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=rgMDGa-Y4qo</link>
+      <description>&lt;a href="https://open.spotify.com/search/Welcome%20to%20Voxxed%20Days%20Ticino%202024%20by%20Federico%20Yankelevich%20and%20Tiziano%20Leidi"&gt;Welcome to Voxxed Days Ticino 2024 by Federico Yankelevich and Tiziano Leidi (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=rgMDGa-Y4qo"&gt;&lt;img src="https://i.ytimg.com/vi/rgMDGa-Y4qo/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=rgMDGa-Y4qo</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Bootiful Spring Boot 3.x by Josh Long (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=u35ZaiYDbEM</link>
+      <description>&lt;a href="https://open.spotify.com/search/Bootiful%20Spring%20Boot%203.x%20by%20Josh%20Long"&gt;Bootiful Spring Boot 3.x by Josh Long (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=u35ZaiYDbEM"&gt;&lt;img src="https://i.ytimg.com/vi/u35ZaiYDbEM/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=u35ZaiYDbEM</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Facilitating Success: Empathy-Driven Leadership and the Quest for UX Strategy by Emilia Ciardi (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=vRvAjlsIMMs</link>
+      <description>&lt;a href="https://open.spotify.com/search/Facilitating%20Success:%20Empathy-Driven%20Leadership%20and%20the%20Quest%20for%20UX%20Strategy%20by%20Emilia%20Ciardi"&gt;Facilitating Success: Empathy-Driven Leadership and the Quest for UX Strategy by Emilia Ciardi (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=vRvAjlsIMMs"&gt;&lt;img src="https://i.ytimg.com/vi/vRvAjlsIMMs/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=vRvAjlsIMMs</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>A Deep Dive Into Advanced Typescript: A Live Coding Expedition by Christian Wörz (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=wwMy2bhz-hs</link>
+      <description>&lt;a href="https://open.spotify.com/search/A%20Deep%20Dive%20Into%20Advanced%20Typescript:%20A%20Live%20Coding%20Expedition%20by%20Christian%20W%C3%B6rz"&gt;A Deep Dive Into Advanced Typescript: A Live Coding Expedition by Christian Wörz (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:27Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=wwMy2bhz-hs"&gt;&lt;img src="https://i.ytimg.com/vi/wwMy2bhz-hs/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=wwMy2bhz-hs</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Stop rolling the dice: an approach to effort estimation in software development by Luca Camerini (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=NCV63jJhLI0</link>
+      <description>&lt;a href="https://open.spotify.com/search/Stop%20rolling%20the%20dice:%20an%20approach%20to%20effort%20estimation%20in%20software%20development%20by%20Luca%20Camerini"&gt;Stop rolling the dice: an approach to effort estimation in software development by Luca Camerini (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:26Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=NCV63jJhLI0"&gt;&lt;img src="https://i.ytimg.com/vi/NCV63jJhLI0/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=NCV63jJhLI0</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Wargames - Java vulnerabilities and why you should care by Gerrit Grunwald (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=OceTGAylDBg</link>
+      <description>&lt;a href="https://open.spotify.com/search/Wargames%20-%20Java%20vulnerabilities%20and%20why%20you%20should%20care%20by%20Gerrit%20Grunwald"&gt;Wargames - Java vulnerabilities and why you should care by Gerrit Grunwald (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=OceTGAylDBg"&gt;&lt;img src="https://i.ytimg.com/vi/OceTGAylDBg/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=OceTGAylDBg</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Codespaces, Gitpod, Devpod what cloud and container-based IDEs can do for you by Matthias-Haeussler (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=Uc6fjKJCRBs</link>
+      <description>&lt;a href="https://open.spotify.com/search/Codespaces,%20Gitpod,%20Devpod%20what%20cloud%20and%20container-based%20IDEs%20can%20do%20for%20you%20by%20Matthias-Haeussler"&gt;Codespaces, Gitpod, Devpod what cloud and container-based IDEs can do for you by Matthias-Haeussler (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=Uc6fjKJCRBs"&gt;&lt;img src="https://i.ytimg.com/vi/Uc6fjKJCRBs/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=Uc6fjKJCRBs</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Infrastructure as Code Programs: How to Test, Finally by Daniel Sokolowski and Guido Salvaneschi (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=Ucf85L9WdrM</link>
+      <description>&lt;a href="https://open.spotify.com/search/Infrastructure%20as%20Code%20Programs:%20How%20to%20Test,%20Finally%20by%20Daniel%20Sokolowski%20and%20Guido%20Salvaneschi"&gt;Infrastructure as Code Programs: How to Test, Finally by Daniel Sokolowski and Guido Salvaneschi (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=Ucf85L9WdrM"&gt;&lt;img src="https://i.ytimg.com/vi/Ucf85L9WdrM/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=Ucf85L9WdrM</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Stop fighting useless battles: automate code style, architecture compliance  by Roberto Franchini (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=WgMxXVzSfo0</link>
+      <description>&lt;a href="https://open.spotify.com/search/Stop%20fighting%20useless%20battles:%20automate%20code%20style,%20architecture%20compliance%20%20by%20Roberto%20Franchini"&gt;Stop fighting useless battles: automate code style, architecture compliance  by Roberto Franchini (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=WgMxXVzSfo0"&gt;&lt;img src="https://i.ytimg.com/vi/WgMxXVzSfo0/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=WgMxXVzSfo0</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>From Points to Coins: How Lugano is making crypto mainstream by Jan Trautmann and Gianluca Perletti (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=XWEdcoGzR2Q</link>
+      <description>&lt;a href="https://open.spotify.com/search/From%20Points%20to%20Coins:%20How%20Lugano%20is%20making%20crypto%20mainstream%20by%20Jan%20Trautmann%20and%20Gianluca%20Perletti"&gt;From Points to Coins: How Lugano is making crypto mainstream by Jan Trautmann and Gianluca Perletti (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=XWEdcoGzR2Q"&gt;&lt;img src="https://i.ytimg.com/vi/XWEdcoGzR2Q/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=XWEdcoGzR2Q</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Crafting Intelligent Supersonic Subatomic applications with Quarkus by  Dimitris Andreadis (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=ZTu6S6smeMo</link>
+      <description>&lt;a href="https://open.spotify.com/search/Crafting%20Intelligent%20Supersonic%20Subatomic%20applications%20with%20Quarkus%20by%20%20Dimitris%20Andreadis"&gt;Crafting Intelligent Supersonic Subatomic applications with Quarkus by  Dimitris Andreadis (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=ZTu6S6smeMo"&gt;&lt;img src="https://i.ytimg.com/vi/ZTu6S6smeMo/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=ZTu6S6smeMo</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Data Integrity in smart infrastructures by Ludovico Binda (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=aNB_Ua1fKnQ</link>
+      <description>&lt;a href="https://open.spotify.com/search/Data%20Integrity%20in%20smart%20infrastructures%20by%20Ludovico%20Binda"&gt;Data Integrity in smart infrastructures by Ludovico Binda (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=aNB_Ua1fKnQ"&gt;&lt;img src="https://i.ytimg.com/vi/aNB_Ua1fKnQ/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=aNB_Ua1fKnQ</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Probabilistic data structures by Andrea Iacono (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=bYyRwGFSFbQ</link>
+      <description>&lt;a href="https://open.spotify.com/search/Probabilistic%20data%20structures%20by%20Andrea%20Iacono"&gt;Probabilistic data structures by Andrea Iacono (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=bYyRwGFSFbQ"&gt;&lt;img src="https://i.ytimg.com/vi/bYyRwGFSFbQ/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=bYyRwGFSFbQ</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>To TDD or not to TDD: that is the question! by Marco Consolaro (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=fXpYK1wdwZA</link>
+      <description>&lt;a href="https://open.spotify.com/search/To%20TDD%20or%20not%20to%20TDD:%20that%20is%20the%20question!%20by%20Marco%20Consolaro"&gt;To TDD or not to TDD: that is the question! by Marco Consolaro (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:25Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=fXpYK1wdwZA"&gt;&lt;img src="https://i.ytimg.com/vi/fXpYK1wdwZA/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=fXpYK1wdwZA</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>How a Two-Decade-Old Issue Still Haunts Software Scalability by Luca Molteni and Francesco Nigro (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=-42brrfK9ww</link>
+      <description>&lt;a href="https://open.spotify.com/search/How%20a%20Two-Decade-Old%20Issue%20Still%20Haunts%20Software%20Scalability%20by%20Luca%20Molteni%20and%20Francesco%20Nigro"&gt;How a Two-Decade-Old Issue Still Haunts Software Scalability by Luca Molteni and Francesco Nigro (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=-42brrfK9ww"&gt;&lt;img src="https://i.ytimg.com/vi/-42brrfK9ww/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=-42brrfK9ww</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Apache Camel 4.0 has been released: What's new ? by Alexandre Gallice (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=49OSBDHOstU</link>
+      <description>&lt;a href="https://open.spotify.com/search/Apache%20Camel%204.0%20has%20been%20released:%20What's%20new%20?%20by%20Alexandre%20Gallice"&gt;Apache Camel 4.0 has been released: What's new ? by Alexandre Gallice (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=49OSBDHOstU"&gt;&lt;img src="https://i.ytimg.com/vi/49OSBDHOstU/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=49OSBDHOstU</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>SELECT 'amazing_features' FROM "postgresql" by Kevin Davin (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=5UvkM3Zm8rU</link>
+      <description>&lt;a href="https://open.spotify.com/search/SELECT%20'amazing_features'%20FROM%20%22postgresql%22%20by%20Kevin%20Davin"&gt;SELECT 'amazing_features' FROM "postgresql" by Kevin Davin (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=5UvkM3Zm8rU"&gt;&lt;img src="https://i.ytimg.com/vi/5UvkM3Zm8rU/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=5UvkM3Zm8rU</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Empowering the Gaming Frontier: Microtransactions with Lightning Network by Luca Vajani (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=5dmRanipF8g</link>
+      <description>&lt;a href="https://open.spotify.com/search/Empowering%20the%20Gaming%20Frontier:%20Microtransactions%20with%20Lightning%20Network%20by%20Luca%20Vajani"&gt;Empowering the Gaming Frontier: Microtransactions with Lightning Network by Luca Vajani (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=5dmRanipF8g"&gt;&lt;img src="https://i.ytimg.com/vi/5dmRanipF8g/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=5dmRanipF8g</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Unlocking LLM Potential: From Exploration to Integration by Luca Simone and Davide Menini (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=EdEasimf3cs</link>
+      <description>&lt;a href="https://open.spotify.com/search/Unlocking%20LLM%20Potential:%20From%20Exploration%20to%20Integration%20by%20Luca%20Simone%20and%20Davide%20Menini"&gt;Unlocking LLM Potential: From Exploration to Integration by Luca Simone and Davide Menini (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=EdEasimf3cs"&gt;&lt;img src="https://i.ytimg.com/vi/EdEasimf3cs/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=EdEasimf3cs</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Did you know your browser had super powers? by Francesco Leardini and Andrea Vicari (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=FXRG08-m49w</link>
+      <description>&lt;a href="https://open.spotify.com/search/Did%20you%20know%20your%20browser%20had%20super%20powers?%20by%20Francesco%20Leardini%20and%20Andrea%20Vicari"&gt;Did you know your browser had super powers? by Francesco Leardini and Andrea Vicari (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=FXRG08-m49w"&gt;&lt;img src="https://i.ytimg.com/vi/FXRG08-m49w/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=FXRG08-m49w</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>The Feedback Culture in a company: our "Coin" for Recognition by Alessandro Violini (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=FakPSJKM9gI</link>
+      <description>&lt;a href="https://open.spotify.com/search/The%20Feedback%20Culture%20in%20a%20company:%20our%20%22Coin%22%20for%20Recognition%20by%20Alessandro%20Violini"&gt;The Feedback Culture in a company: our "Coin" for Recognition by Alessandro Violini (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=FakPSJKM9gI"&gt;&lt;img src="https://i.ytimg.com/vi/FakPSJKM9gI/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=FakPSJKM9gI</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Code Review, you said? by Venkat Subramaniam (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=LXG7EvbR5sE</link>
+      <description>&lt;a href="https://open.spotify.com/search/Code%20Review,%20you%20said?%20by%20Venkat%20Subramaniam"&gt;Code Review, you said? by Venkat Subramaniam (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=LXG7EvbR5sE"&gt;&lt;img src="https://i.ytimg.com/vi/LXG7EvbR5sE/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=LXG7EvbR5sE</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Stablecoins mechanisms in search for stability by Emilio Frangella (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=MQP51uxS3uI</link>
+      <description>&lt;a href="https://open.spotify.com/search/Stablecoins%20mechanisms%20in%20search%20for%20stability%20by%20Emilio%20Frangella"&gt;Stablecoins mechanisms in search for stability by Emilio Frangella (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:23Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=MQP51uxS3uI"&gt;&lt;img src="https://i.ytimg.com/vi/MQP51uxS3uI/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=MQP51uxS3uI</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Conway's Law: When Best Practices Are Not Enough by Julien Topçu (Devoxx)</title>
+      <link>https://www.youtube.com/watch?v=KUYZpmzjEeM</link>
+      <description>&lt;a href="https://open.spotify.com/search/Conway's%20Law:%20When%20Best%20Practices%20Are%20Not%20Enough%20by%20Julien%20Top%C3%A7u"&gt;Conway's Law: When Best Practices Are Not Enough by Julien Topçu (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:34:22Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=KUYZpmzjEeM"&gt;&lt;img src="https://i.ytimg.com/vi/KUYZpmzjEeM/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=KUYZpmzjEeM</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Last Lullaby - Thomas's Song (Winter Serenade) The Piano Guys (ThePianoGuys)</title>
+      <link>https://www.youtube.com/watch?v=Ao3TG5aewzI</link>
+      <description>&lt;a href="https://open.spotify.com/search/Last%20Lullaby%20-%20Thomas's%20Song%20(Winter%20Serenade)%20The%20Piano%20Guys"&gt;Last Lullaby - Thomas's Song (Winter Serenade) The Piano Guys (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T13:00:08Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=Ao3TG5aewzI"&gt;&lt;img src="https://i.ytimg.com/vi/Ao3TG5aewzI/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=Ao3TG5aewzI</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>New Bruk Rogers “Lalela feat. ASAP Shembe / Asalato Riddim” from the album 'Loopholes' #brokenbeat (Tru Thoughts Records)</title>
+      <link>https://www.youtube.com/watch?v=KYH3w43rwSs</link>
+      <description>&lt;a href="https://open.spotify.com/search/New%20Bruk%20Rogers%20%E2%80%9CLalela%20feat.%20ASAP%20Shembe%20/%20Asalato%20Riddim%E2%80%9D%20from%20the%20album%20'Loopholes'%20%23brokenbeat"&gt;New Bruk Rogers “Lalela feat. ASAP Shembe / Asalato Riddim” from the album 'Loopholes' #brokenbeat (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T12:55:54Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=KYH3w43rwSs"&gt;&lt;img src="https://i.ytimg.com/vi/KYH3w43rwSs/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=KYH3w43rwSs</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>The Black Renegade - Udentified - 2024 (Full Album) (The Black Renegade)</title>
+      <link>https://www.youtube.com/watch?v=wvIOxiows-s</link>
+      <description>&lt;a href="https://open.spotify.com/search/The%20Black%20Renegade%20-%20Udentified%20-%202024%20(Full%20Album)"&gt;The Black Renegade - Udentified - 2024 (Full Album) (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T12:52:26Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=wvIOxiows-s"&gt;&lt;img src="https://i.ytimg.com/vi/wvIOxiows-s/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=wvIOxiows-s</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>NASA's Ingenuity helicopter’s Mars mission is over (New Scientist)</title>
+      <link>https://www.youtube.com/watch?v=41ljN7of50E</link>
+      <description>&lt;a href="https://open.spotify.com/search/NASA's%20Ingenuity%20helicopter%E2%80%99s%20Mars%20mission%20is%20over"&gt;NASA's Ingenuity helicopter’s Mars mission is over (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T12:29:48Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=41ljN7of50E"&gt;&lt;img src="https://i.ytimg.com/vi/41ljN7of50E/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=41ljN7of50E</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>UPLIFTING TRANCE: Force &amp; Amour - Everything Falls Into Place [Molekular Sounds] (RazNitzanMusic)</title>
+      <link>https://www.youtube.com/watch?v=BCNTaLV5bJI</link>
+      <description>&lt;a href="https://open.spotify.com/search/UPLIFTING%20TRANCE:%20Force%20&amp;%20Amour%20-%20Everything%20Falls%20Into%20Place%20%5BMolekular%20Sounds%5D"&gt;UPLIFTING TRANCE: Force &amp; Amour - Everything Falls Into Place [Molekular Sounds] (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T12:00:10Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=BCNTaLV5bJI"&gt;&lt;img src="https://i.ytimg.com/vi/BCNTaLV5bJI/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=BCNTaLV5bJI</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
+      <title>Tritonia 462 (TritonalTV)</title>
+      <link>https://www.youtube.com/watch?v=wwlsRCDa2hw</link>
+      <description>&lt;a href="https://open.spotify.com/search/Tritonia%20462"&gt;Tritonia 462 (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T11:51:51Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=wwlsRCDa2hw"&gt;&lt;img src="https://i.ytimg.com/vi/wwlsRCDa2hw/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Tue, 30 Jan 2024 14:01:45 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=wwlsRCDa2hw</guid>
+      <dc:date>2024-01-30T14:01:45Z</dc:date>
+    </item>
+    <item>
       <title>Dash Berlin Australia Tour! ☀️ &#x1f1e6;&#x1f1fa; (Part One) (Dash Berlin)</title>
       <link>https://www.youtube.com/watch?v=sUKImirZP8Q</link>
       <description>&lt;a href="https://open.spotify.com/search/Dash%20Berlin%20Australia%20Tour!%20%E2%98%80%EF%B8%8F%20%F0%9F%87%A6%F0%9F%87%BA%20(Part%20One)"&gt;Dash Berlin Australia Tour! ☀️ &#x1f1e6;&#x1f1fa; (Part One) (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T10:36:34Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=sUKImirZP8Q"&gt;&lt;img src="https://i.ytimg.com/vi/sUKImirZP8Q/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Tue, 30 Jan 2024 11:01:42 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=sUKImirZP8Q</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=sUKImirZP8Q</guid>
       <dc:date>2024-01-30T11:01:42Z</dc:date>
     </item>
     <item>
@@ -19,7 +343,7 @@
       <description>&lt;a href="https://open.spotify.com/search/Have%20you%20listened%20to%20NINA%E2%80%99s%20%E2%80%9CSleepwalking%E2%80%9D%20(2018)%20album?"&gt;Have you listened to NINA’s “Sleepwalking” (2018) album? (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T10:25:43Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=z5tt5-ZDnKI"&gt;&lt;img src="https://i.ytimg.com/vi/z5tt5-ZDnKI/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Tue, 30 Jan 2024 11:01:42 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=z5tt5-ZDnKI</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=z5tt5-ZDnKI</guid>
       <dc:date>2024-01-30T11:01:42Z</dc:date>
     </item>
     <item>
@@ -28,7 +352,7 @@
       <description>&lt;a href="https://open.spotify.com/search/Bryan%20Cranston%20And%20Stephen%20Colbert%20Ask%20ChatGPT%20To%20Pitch%20A%20Buddy%20Comedy%20Movie"&gt;Bryan Cranston And Stephen Colbert Ask ChatGPT To Pitch A Buddy Comedy Movie (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T08:35Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=AueJ6nzkawY"&gt;&lt;img src="https://i.ytimg.com/vi/AueJ6nzkawY/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Tue, 30 Jan 2024 11:01:42 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=AueJ6nzkawY</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=AueJ6nzkawY</guid>
       <dc:date>2024-01-30T11:01:42Z</dc:date>
     </item>
     <item>
@@ -37,7 +361,7 @@
       <description>&lt;a href="https://open.spotify.com/search/Bryan%20Cranston%20Channeled%20Steve%20Carell%20For%20His%20Role%20In%20%E2%80%9CArgylle%22"&gt;Bryan Cranston Channeled Steve Carell For His Role In “Argylle" (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T08:35Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=KDmnewaysAQ"&gt;&lt;img src="https://i.ytimg.com/vi/KDmnewaysAQ/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Tue, 30 Jan 2024 11:01:42 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=KDmnewaysAQ</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=KDmnewaysAQ</guid>
       <dc:date>2024-01-30T11:01:42Z</dc:date>
     </item>
     <item>
@@ -46,7 +370,7 @@
       <description>&lt;a href="https://open.spotify.com/search/Stephen%20Colbert%20Gets%20All%20Up%20In%20Your%20Faith:%20Nones%20Explained%20%7C%20Wine%20Is%20A%20Gift%20%7C%20God%20Isn%E2%80%99t%20Scared%20Of%E2%80%A6"&gt;Stephen Colbert Gets All Up In Your Faith: Nones Explained | Wine Is A Gift | God Isn’t Scared Of… (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T08:35Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=VZ8KFSGmG08"&gt;&lt;img src="https://i.ytimg.com/vi/VZ8KFSGmG08/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Tue, 30 Jan 2024 11:01:42 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=VZ8KFSGmG08</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=VZ8KFSGmG08</guid>
       <dc:date>2024-01-30T11:01:42Z</dc:date>
     </item>
     <item>
@@ -55,7 +379,7 @@
       <description>&lt;a href="https://open.spotify.com/search/%E2%80%9CUnderneath,%20We%20All%20Taste%20Like%20Chicken%E2%80%9D%20-%20Michele%20Norris%20Asks%20Americans%20To%20Talk%20About%20Race"&gt;“Underneath, We All Taste Like Chicken” - Michele Norris Asks Americans To Talk About Race (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2024-01-30T08:35Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=csvNQoViQOY"&gt;&lt;img src="https://i.ytimg.com/vi/csvNQoViQOY/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Tue, 30 Jan 2024 11:01:42 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=csvNQoViQOY</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=csvNQoViQOY</guid>
       <dc:date>2024-01-30T11:01:42Z</dc:date>
     </item>
     <item>
