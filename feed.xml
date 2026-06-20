@@ -5,12 +5,21 @@
     <link>https://github.com/mckelvym/youtube_subscriptions_rss</link>
     <description>Subscriptions harvester and newly released videos</description>
     <item>
+      <title>LAWEN - Keep It Simple (Kontor.TV)</title>
+      <link>https://www.youtube.com/watch?v=OJdvXWuO-cA</link>
+      <description>&lt;a href="https://open.spotify.com/search/LAWEN%20-%20Keep%20It%20Simple"&gt;LAWEN - Keep It Simple (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2026-06-20T08:00:14Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=OJdvXWuO-cA"&gt;&lt;img src="https://i.ytimg.com/vi/OJdvXWuO-cA/hqdefault.jpg"&gt;&lt;/a&gt;</description>
+      <category>videos</category>
+      <pubDate>Sat, 20 Jun 2026 10:03:04 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=OJdvXWuO-cA</guid>
+      <dc:date>2026-06-20T10:03:04Z</dc:date>
+    </item>
+    <item>
       <title>Expectance - Fading Gravity (Suanda Music)</title>
       <link>https://www.youtube.com/watch?v=Qm9z7Z5GPvI</link>
       <description>&lt;a href="https://open.spotify.com/search/Expectance%20-%20Fading%20Gravity"&gt;Expectance - Fading Gravity (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2026-06-20T07:00:22Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=Qm9z7Z5GPvI"&gt;&lt;img src="https://i.ytimg.com/vi/Qm9z7Z5GPvI/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Sat, 20 Jun 2026 07:03:09 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=Qm9z7Z5GPvI</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=Qm9z7Z5GPvI</guid>
       <dc:date>2026-06-20T07:03:09Z</dc:date>
     </item>
     <item>
@@ -19,7 +28,7 @@
       <description>&lt;a href="https://open.spotify.com/search/3%20Sud%20Est%20-%20Iubire%20(SOA%20Deejays%20Remix)"&gt;3 Sud Est - Iubire (SOA Deejays Remix) (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2026-06-20T06:00:11Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=2x8e5Nr2d-k"&gt;&lt;img src="https://i.ytimg.com/vi/2x8e5Nr2d-k/hqdefault.jpg"&gt;&lt;/a&gt;</description>
       <category>videos</category>
       <pubDate>Sat, 20 Jun 2026 07:03:09 GMT</pubDate>
-      <guid>https://www.youtube.com/watch?v=2x8e5Nr2d-k</guid>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=2x8e5Nr2d-k</guid>
       <dc:date>2026-06-20T07:03:09Z</dc:date>
     </item>
     <item>
@@ -4854,15 +4863,6 @@
       <pubDate>Sat, 13 Jun 2026 07:03:13 GMT</pubDate>
       <guid isPermaLink="false">https://www.youtube.com/watch?v=6LRvkXuaNPg</guid>
       <dc:date>2026-06-13T07:03:13Z</dc:date>
-    </item>
-    <item>
-      <title>New music soon &#x1f60e;&#x1f60e;&#x1f60e; (S A N G A B R I E L)</title>
-      <link>https://www.youtube.com/watch?v=O0OuLcYkxSs</link>
-      <description>&lt;a href="https://open.spotify.com/search/New%20music%20soon%20%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E"&gt;New music soon &#x1f60e;&#x1f60e;&#x1f60e; (Spotify)&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2026-06-13T02:11:15Z&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.youtube.com/watch?v=O0OuLcYkxSs"&gt;&lt;img src="https://i.ytimg.com/vi/O0OuLcYkxSs/hqdefault.jpg"&gt;&lt;/a&gt;</description>
-      <category>videos</category>
-      <pubDate>Sat, 13 Jun 2026 04:03:18 GMT</pubDate>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=O0OuLcYkxSs</guid>
-      <dc:date>2026-06-13T04:03:18Z</dc:date>
     </item>
   </channel>
 </rss>
